@@ -28,7 +28,7 @@ Once you have the starter file, place it in the required directory (instructions
 ## 🎥 Gameplay Demo
 
 📌 
-visit :https://omu47.itch.io/shootme
+> *(Coming Soon)*
 
 ---
 
@@ -63,10 +63,6 @@ Reach out if you have ideas, feedback, or drone-related nightmares. 😉
 
 ---
 The whole game is created on Mono Scripting backend for the IL2CPP Scripting backend change the other branch
-
-------> so i have seen the files of IL2CPP .it's size goes beyond the pushing limit ,you take a leverage of this complete game at :https://omu47.itch.io/shootme 
-
-feel free to reach me
 ## 📄 License
 
 This project is currently private. Redistribution, reverse-engineering, or unauthorized use of assets is prohibited without permission.
