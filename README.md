@@ -62,7 +62,7 @@ Made with ❤️ using Unity by **Ayu9002**
 Reach out if you have ideas, feedback, or drone-related nightmares. 😉
 
 ---
-
+The whole game is created on Mono Scripting backend for the IL2CPP Scripting backend change the other branch
 ## 📄 License
 
 This project is currently private. Redistribution, reverse-engineering, or unauthorized use of assets is prohibited without permission.
